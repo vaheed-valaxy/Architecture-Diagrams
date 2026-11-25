@@ -15,4 +15,4 @@
 5. **Product** microservice sends image urls to cloudfront.
 6. Cloudfront search for the images/content in its edge locations/servers if it has a cached image/content of that, if so cloudfront returns that image/content to end user.
 7. If Cloudfront does not have a cached image/content cloudfront will go to its origin(S3/ALB) in our case S3 and get that content as well as cache that image/content in its edge locations/servers, so the next requests will get the image/content from edge locations/servers.
-8. Response (either from step:6 or step:7) will go to end user.
+8. Response (either from step:6 or from step:7) will go to end user.
