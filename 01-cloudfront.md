@@ -4,6 +4,6 @@
 -->
 
 <div align="center">
-  <h2>Cloudfront</h2>
-  <img src="diagrams/cloudfront.drawio.svg" alt="cloudfront" width="550"/>
+  <h1>Cloudfront</h1>
+  <img src="diagrams/cloudfront.drawio.svg" alt="cloudfront" width="900"/>
 </div>
