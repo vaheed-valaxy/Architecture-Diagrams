@@ -1,2 +1,2 @@
 # Cloudfront 
-![cloudfront][diagrams/]
+![Cloudfront](docs/cloudfront.drawio.svg)
